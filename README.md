@@ -1,4 +1,6 @@
 E-Auction AkaPel – Online Auction System
+
+
 Hi! I’m Atika Fitria, an IT student passionate about system development and web technologies.
 This project is the implementation of an online auction system called "e-Auction AkaPel", aimed at providing a simple, efficient, and transparent platform for digital auction activities.
 
