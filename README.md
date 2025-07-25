@@ -3,11 +3,14 @@ Hi! I’m Atika Fitria, an IT student passionate about system development and we
 This project is the implementation of an online auction system called "e-Auction AkaPel", aimed at providing a simple, efficient, and transparent platform for digital auction activities.
 
 🚀 Technologies Used
+
 Frontend: HTML, CSS, JavaScript (for web interface)
 
 Backend: PHP
 
+
 🎯 Project Objectives
+
 In the rapidly evolving world of commerce, online auction systems are becoming increasingly relevant. The e-Auction AkaPel project focuses on:
 
 Building an auction platform that is accessible and user-friendly for everyone
